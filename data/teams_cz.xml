@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teams>
+    <team id="4">
+        <name>Proste Nejlepsi</name>
+        <members>
+            <player id="5" role="leader" primaryLang="cs">
+                <username>karel20</username>
+                <email>karel@google.com</email>
+                <phoneNumber>+420420420420</phoneNumber>
+                <level>250</level>
+                <ign>karel 20</ign>
+            </player>
+            <player id="6" primaryLang="cs" role="player">
+                <username>Wasek4000</username>
+                <email>vasek4000@seznam.cz</email>
+                <phoneNumber>+420345543192</phoneNumber>
+                <level>123</level>
+                <ign>Wasek 4000</ign>
+            </player>
+            <player id="9" primaryLang="en" role="substitute">
+                <username>ELOMUSK</username>
+                <email>elomusk@tesla.com</email>
+                <level>2000</level>
+                <ign>ELO MusKkk</ign>
+            </player>
+        </members>
+        <points>20</points>
+    </team>
+    <team id="5">
+        <name>Uz dochazeji nazvy</name>
+        <members>
+            <player id="8" role="leader" primaryLang="cs">
+                <username>Pepa5600</username>
+                <email>pepa5600@seznam.cz</email>
+                <level>13</level>
+                <ign>Pepaaaaa</ign>
+            </player>
+        </members>
+        <player id="6" primaryLang="cs" role="substitute">
+            <username>Wasek4000</username>
+            <email>vasek4000@seznam.cz</email>
+            <phoneNumber>+420345543192</phoneNumber>
+            <level>123</level>
+            <ign>Wasek 4000</ign>
+        </player>
+        <player id="7" primaryLang="cs" role="player">
+            <username>ultrabadcz</username>
+            <email>ultrabad@centrum.cz</email>
+            <level>300</level>
+            <ign>Ultrabad_CZ</ign>
+        </player>
+        <player id="0" primaryLang="en" role="substitute">
+            <username>EasyPz</username>
+            <email>easypz@gmail.com</email>
+            <phoneNumber>+213377331</phoneNumber>
+            <level>25</level>
+            <ign>Easy PZ</ign>
+        </player>
+        <points>540</points>
+        <description>Nejlepsi ceskej tym</description>
+    </team>
+</teams>

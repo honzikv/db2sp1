@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<players>
+    <player id="5" primaryLang="cs">
+        <username>karel20</username>
+        <email>karel@google.com</email>
+        <phoneNumber>+420420420420</phoneNumber>
+        <level>250</level>
+        <ign>karel 20</ign>
+    </player>
+    <player id="6" primaryLang="cs">
+        <username>Wasek4000</username>
+        <email>vasek4000@seznam.cz</email>
+        <phoneNumber>+420345543192</phoneNumber>
+        <level>123</level>
+        <ign>Wasek 4000</ign>
+    </player>
+    <player id="7" primaryLang="cs">
+        <username>ultrabadcz</username>
+        <email>ultrabad@centrum.cz</email>
+        <level>300</level>
+        <ign>Ultrabad_CZ</ign>        
+    </player>
+    <player id="8" primaryLang="cs">
+        <username>Pepa5600</username>
+        <email>pepa5600@seznam.cz</email>
+        <level>13</level>
+        <ign>Pepaaaaa</ign>
+    </player>
+</players>

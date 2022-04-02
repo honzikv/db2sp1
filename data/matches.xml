@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<matches>
+    <match id="0">
+        <team1Id>0</team1Id>
+        <team2Id>1</team2Id>
+        <startedAt>1546413058</startedAt>
+        <durationSec>1820</durationSec>
+        <team1Win>0</team1Win>
+    </match>
+    <match id="1">
+        <team1Id>1</team1Id>
+        <team2Id>0</team2Id>
+        <startedAt>1546499458</startedAt>
+        <durationSec>1600</durationSec>
+        <team1Win>0</team1Win>
+    </match>
+    <match id="2">
+        <team1Id>2</team1Id>
+        <team2Id>3</team2Id>
+        <startedAt>1546499458</startedAt>
+        <durationSec>2400</durationSec>
+        <team1Win>1</team1Win>
+        <description>LEC Finals</description>
+    </match>
+    <match id="3">
+        <team1Id>3</team1Id>
+        <team2Id>5</team2Id>
+        <startedAt>1546499458</startedAt>
+        <durationSec>3600</durationSec>
+        <team1Win>1</team1Win>
+    </match>
+    <match id="4">
+        <team1Id>3</team1Id>
+        <team2Id>0</team2Id>
+        <startedAt>1557317455</startedAt>
+        <durationSec>2400</durationSec>
+        <team1Win>0</team1Win>
+        <description>LCS Finals</description>
+    </match>
+</matches>

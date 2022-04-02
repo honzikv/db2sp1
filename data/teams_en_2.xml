@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teams>
+    <team id="2">
+        <name>Team of the year</name>
+        <members>
+            <player id="2" primaryLang="en" role="leader">
+                <username>DoomGuy3000</username>
+                <email>doomguy3000@outlook.com</email>
+                <phoneNumber>+420123456789</phoneNumber>
+                <level>100</level>
+                <ign>Doom Guy 3000</ign>
+            </player>
+            <player id="4" primaryLang="en" role="player">
+                <username>AMZNCEO</username>
+                <email>jeffreytbezos@yahoo.com</email>
+                <level>2</level>
+                <ign>JeffreyBezos1337</ign>
+            </player>
+            <player id="9" primaryLang="en" role="substitute">
+                <username>ELOMUSK</username>
+                <email>elomusk@tesla.com</email>
+                <level>2000</level>
+                <ign>ELO MusKkk</ign>
+            </player>
+        </members>
+        <points>1000</points>
+        <description>This team is the team of the year.</description>
+    </team>
+    <team id="3">
+        <name>TSM</name>
+        <members>
+            <player id="3" primaryLang="en" role="leader">
+                <username>Iwin2EZ</username>
+                <email>iwintoez@outlook.com</email>
+                <level>250</level>
+                <ign>I WIN too EZ</ign>
+            </player>
+            <player id="7" primaryLang="cs" role="player">
+                <username>ultrabadcz</username>
+                <email>ultrabad@centrum.cz</email>
+                <level>300</level>
+                <ign>Ultrabad_CZ</ign>
+            </player>
+            <player id="6" primaryLang="cs" role="player">
+                <username>Wasek4000</username>
+                <email>vasek4000@seznam.cz</email>
+                <phoneNumber>+420345543192</phoneNumber>
+                <level>123</level>
+                <ign>Wasek 4000</ign>
+            </player>
+        </members>
+        <points>0</points>
+        <description>Team SoloMid (TSM), officially TSM FTX, is a professional esports organization
+            based in the United States. It was founded in September 2009 by Andy "Reginald" Dinh.
+        </description>
+    </team>
+</teams>

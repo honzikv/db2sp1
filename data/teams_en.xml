@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teams>
+    <team id="0">
+        <name>Always winning</name>
+        <members>
+            <player id="4" primaryLang="en" role="leader">
+                <username>AMZNCEO</username>
+                <email>jeffreytbezos@yahoo.com</email>
+                <level>2</level>
+                <ign>JeffreyBezos1337</ign>
+            </player>
+            <player id="4" primaryLang="en" role="player">
+                <username>AMZNCEO</username>
+                <email>jeffreytbezos@yahoo.com</email>
+                <level>2</level>
+                <ign>JeffreyBezos1337</ign>
+            </player>
+            <player id="1" primaryLang="en" role="player">
+                <username>Joe123</username>
+                <email>joe@gmail.com</email>
+                <phoneNumber>+1123456789</phoneNumber>
+                <level>20</level>
+                <ign>Joeeee123</ign>
+            </player>
+            <player id="3" primaryLang="en" role="substitute">
+                <username>Iwin2EZ</username>
+                <email>iwintoez@outlook.com</email>
+                <level>250</level>
+                <ign>I WIN too EZ</ign>
+            </player>
+        </members>
+        <points>250</points>
+    </team>
+    <team id="1">
+        <name>Always Losing</name>
+        <members>
+            <player id="2" primaryLang="en" role="leader">
+                <username>DoomGuy3000</username>
+                <email>doomguy3000@outlook.com</email>
+                <phoneNumber>+420123456789</phoneNumber>
+                <level>100</level>
+                <ign>Doom Guy 3000</ign>
+            </player>
+            <player id="1" primaryLang="en" role="player">
+                <username>Joe123</username>
+                <email>joe@gmail.com</email>
+                <phoneNumber>+1123456789</phoneNumber>
+                <level>20</level>
+                <ign>Joeeee123</ign>
+            </player>
+            <player id="8" primaryLang="cs" role="player">
+                <username>Pepa5600</username>
+                <email>pepa5600@seznam.cz</email>
+                <level>13</level>
+                <ign>Pepaaaaa</ign>
+            </player>
+        </members>
+        <points>500</points>
+        <description>This team always loses.</description>
+    </team>
+</teams>

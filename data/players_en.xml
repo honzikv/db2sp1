@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<players>
+    <player id="0" primaryLang="en">
+        <username>EasyPz</username>
+        <email>easypz@gmail.com</email>
+        <phoneNumber>+213377331</phoneNumber>
+        <level>25</level>
+        <ign>Easy PZ</ign>
+    </player>
+    <player id="1" primaryLang="en">
+        <username>Joe123</username>
+        <email>joe@gmail.com</email>
+        <phoneNumber>+1123456789</phoneNumber>
+        <level>20</level>
+        <ign>Joeeee123</ign>
+    </player>
+    <player id="2" primaryLang="en">
+        <username>DoomGuy3000</username>
+        <email>doomguy3000@outlook.com</email>
+        <phoneNumber>+420123456789</phoneNumber>
+        <level>100</level>
+        <ign>Doom Guy 3000</ign>
+    </player>
+    <player id="3" primaryLang="en">
+        <username>Iwin2EZ</username>
+        <email>iwintoez@outlook.com</email>
+        <level>250</level>
+        <ign>I WIN too EZ</ign>
+    </player>
+    <player id="4" primaryLang="en">
+        <username>AMZNCEO</username>
+        <email>jeffreytbezos@yahoo.com</email>
+        <level>2</level>
+        <ign>JeffreyBezos1337</ign>
+    </player>
+    <player id="9" primaryLang="en">
+        <username>ELOMUSK</username>
+        <email>elomusk@tesla.com</email>
+        <level>2000</level>
+        <ign>ELO MusKkk</ign>
+    </player>
+</players>
